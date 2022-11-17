@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #ffdcbd;
+}
+
+.container {
+    text-align: center;
+    line-height: 0;
+}
+
+
+/*Logo*/
+.logo{
+    padding-top: 10px;   
+}
+
+.logo img{
+    width: 30%;  
+}
+
+/*Tela*/
+.img{
+    width: 30px;
+    height: 30px;
+}
+
+.tela1 {
+    line-height: 0;
+    display: inline-flex;
+    padding-top: 10px;
+}
+
+.tela {
+    line-height: 0;
+    display: inline-flex;
+}
+
+
+/*Botoes*/
+.botoes{
+    padding-top: 35px;
+}
+
+    /*Ferramentas*/
+    .ferramenta{
+        background-color: white;
+        font-weight: 700;
+    }
+
+    .ferramenta:hover{
+        background-color: gray;
+        color: white;   
+    }
+
+    /*Preencher*/
+    svg{
+        background-color: white;
+    }
+
+    svg:hover{
+        background-color: gray;
+    }
+
+    /*Cores*/
+
+    .botao{
+        width: 70px;
+        height: 35px;
+        margin: 10px;
+        vertical-align: middle;
+    }
+
+    .botao:hover{
+        box-shadow: 0 0 0 0.05rem #000000;
+    }
+
+    #c1b367e {background-color: #1b367e;}
+
+    #c84daf4 {background-color: #84daf4;}
+
+    #c7833a3 {background-color: #7833a3;}
+
+    #c88522a {background-color: #88522a;}
+
+    #c373737 {background-color: #373737;}
+
+    #c397324 {background-color: #397324;}
+
+    #cc0ff89 {background-color: #c0ff89;}
+
+    #cdadada {background-color: #dadada;}
+
+    #cdf5aad {background-color: #df5aad;}
+
+    #cff953f {background-color: #ff953f;}
+
+    #cff4949 {background-color: #ff4949;}
+
+    #cffed6f {background-color: #ffed6f;}
+
+    #cffedd3 {background-color: #ffedd3;}
+
+    #cffffff {background-color: #ffffff;}
